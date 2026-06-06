@@ -20,4 +20,5 @@ int main() {
     cout << (s1 == s2)<<endl;  // 1 (true)  ✅
     cout << (s1 == s3)<<endl;  // 0 (false) ✅
     cout << (s1 < s3)<<endl;   // 1 (true)  ✅
+    cout << (s1 < s3)<<endl;   // 1 (true)  ✅
 }
