@@ -19,7 +19,7 @@ public:
 };
 
 int sum(A a, B b) {
-    return a.x + b.y;       // ------->>>>> accessing private members
+    return a.x + b.y;    // ------->>>>> accessing private members
 }
 
 int main() {
