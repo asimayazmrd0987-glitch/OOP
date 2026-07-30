@@ -39,3 +39,32 @@ g++ -std=c++17 -o output filename.cpp
 # Multi-file (with headers)
 g++ -std=c++17 main.cpp class.cpp -o output
 ./output
+,,,
+
+## README.md for Your Repo (Add This Too)
+
+```markdown
+# C++ OOP — Complete Learning Guide
+
+> A complete collection of C++ programs covering all OOP concepts and language features.
+
+## 📂 Topics
+
+| Category | Topics |
+|----------|--------|
+| Basics | Variables, Loops, Arrays, Functions |
+| OOP Core | Classes, Objects, Constructors, Destructors |
+| Inheritance | Single, Multiple, Multilevel, Hybrid |
+| Polymorphism | Overloading, Virtual Functions, Abstract Classes |
+| Advanced | Templates, Exceptions, File I/O, STL |
+
+## 🛠️ Compile & Run
+
+```bash
+g++ program.cpp -o program
+./program
+📥 Latest Release
+[Download v1.0.0](https://www.kimi.com/releases)
+📄 License
+MIT License — free to use for learning and teaching.
+,,,
